@@ -44,7 +44,7 @@ Clone this repository to your local machine.
 
 Navigate to the project directory.
 
-Open the 'index.html' file in your preferred web browser.
+Open the 'index.html' file in your preferred web browser using the Live Server extension in VS Code.
 
 ***Thank you for checking out the hotel website! 🏨✨***
 
